@@ -1,3 +1,3 @@
 # hello-world
 learning
-learning GitHub for Android development
+GitHub for Android development
